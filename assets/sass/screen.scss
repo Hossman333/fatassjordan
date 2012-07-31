@@ -6,7 +6,7 @@
 
 
 $bodyImage: "bg-body.jpg";
-$logoImage: "avatar-220x220.jpg";
+$logoImage: "avatar-335x335.jpg";
 
 $arrow-sprite: sprite-map("arrows/*.png");
 
@@ -26,7 +26,7 @@ body {
 }
 
 #site-logo {
-	@include border-radius(110px);
+	@include border-radius(165px);
 	@include background-image(image-url($logoImage));
 	@include single-box-shadow();
 
