@@ -85,14 +85,14 @@ body {
   -ms-border-radius: 165px;
   -o-border-radius: 165px;
   border-radius: 165px;
-  background-image: url('../images/avatar-335x335.jpg?1343748854');
+  background-image: url('../images/avatar-220x220.jpg?1344046406');
   -webkit-box-shadow: 0px 0px 5px #333333;
   -moz-box-shadow: 0px 0px 5px #333333;
   box-shadow: 0px 0px 5px #333333;
   border: 5px solid #00ccff;
   margin: 30px auto;
-  height: 335px;
-  width: 335px;
+  height: 220px;
+  width: 220px;
 }
 
 fieldset {
