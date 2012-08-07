@@ -36,7 +36,7 @@ function fetchTweets($app) {
 }
 
 function check_for_valid_cache($file) {
-	if(file_exists($file) && time() - 360*15 < filemtime($file)) {
+	if(file_exists($file) && time() - 60*15 < filemtime($file)) {
 		return file($file);
 	}
 }
